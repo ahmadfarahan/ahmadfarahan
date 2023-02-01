@@ -22,7 +22,7 @@ $(function(){
         if($(this).scrollTop() < 100) {
             $('#logo, #topbar, .cart-label').fadeIn('fast');
             $('.logo img')
-                .attr('src','img/logoAFtransparanputih.png');
+                .attr('src','img/logo.jpg');
         }
     });
 });
